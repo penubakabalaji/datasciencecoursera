@@ -1,5 +1,3 @@
-Error restoring session (options): R code execution error
-
 > "Hello World !"
 [1] "Hello World !"
 > name <- "Balaji"
